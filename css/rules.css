@@ -1,10 +1,12 @@
+html { overflow-y: scroll; }
+
 .rules {
     position: fixed;
-    background-color: yellow;
+    background-color: darkgrey;
     width: 90%;
     margin: 4.5%;
     margin-top: 4%;
-    height: 80%;
+    height: 95%;
     align-items: center
 }
 
@@ -13,7 +15,8 @@ p {
 }
 
 body {
-    background-color: yellowgreen
+    background-color: firebrick;
+    position: absolute; 
 }
 
 .ok {
