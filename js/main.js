@@ -1,4 +1,5 @@
 // js-файл з основними функціями та змінними
+// ще ніде не використовується
 var love, religion, budget, prestige
 love = religion = budget = prestige = 50
 $(function () {
