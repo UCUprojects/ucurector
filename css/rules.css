@@ -1,0 +1,27 @@
+.rules {
+    position: fixed;
+    background-color: yellow;
+    width: 90%;
+    margin: 4.5%;
+    margin-top: 4%;
+    height: 80%;
+    align-items: center
+}
+
+p {
+    text-align: center
+}
+
+body {
+    background-color: yellowgreen
+}
+
+.ok {
+    position: relative;
+    left: 36%;
+    /* display: flex;
+    justify-content: center */
+    width: 40%;
+}
+
+button {}
